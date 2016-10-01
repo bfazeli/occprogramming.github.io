@@ -7,15 +7,15 @@
 /* WHEN ADDING NEW RESOURCES BOXES, UPDATE THESE TWO ARRAYS
    NOTE: THEY HAVE TO BE IN ORDER AND FOLLOW THE SAME FORMAT
 ***********************************************************/
-var resourcesBoxList = [ 
-  $('#spring-2015-resources'), 
+var resourcesBoxList = [
+  $('#spring-2015-resources'),
   $('#fall-2015-resources'),
   $('#spring-2016-resources'),
   $('#fall-2016-resources')
 ];
 
 var resourcesLinkList = [
-  $('#spring-2015-resources-link'), 
+  $('#spring-2015-resources-link'),
   $('#fall-2015-resources-link'),
   $('#spring-2016-resources-link'),
   $('#fall-2016-resources-link')
